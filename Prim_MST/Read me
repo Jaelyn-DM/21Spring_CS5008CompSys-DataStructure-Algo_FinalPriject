@@ -1,0 +1,5 @@
+The implementation includes:
+1. min heap implementation in c, include .c and .h files
+2. main.c: two implementations of prim's algorithm using matrix
+3. prim_using_ajlist.c: additional version of prim's algorithm using adjacency list and min heap
+4. md file : Report
